@@ -8,6 +8,11 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "pandas (>=3.0.5,<4.0.0)",
+    "path (>=17.1.1,<18.0.0)",
+    "openpyxl (>=3.1.5,<4.0.0)",
+    "black (>=26.5.1,<27.0.0)",
+    "pulp (>=3.3.2,<4.0.0)"
 ]
 
 
