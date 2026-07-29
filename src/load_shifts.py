@@ -1,4 +1,4 @@
-from load_data import load_shifts as load_shift_table
+from src.load_data import load_shifts as load_shift_table
 
 
 def prepare_shifts():

@@ -1,7 +1,7 @@
 from pathlib import Path
 import math
 import pandas as pd
-from analyze_load import analyze_load
+from src.analyze_load import analyze_load
 
 AHT = 690
 MAX_CHATS = 2

@@ -1,6 +1,6 @@
 from pathlib import Path
 import pandas as pd
-from load_data import load_chat_history
+from src.load_data import load_chat_history
 
 
 def analyze_load():

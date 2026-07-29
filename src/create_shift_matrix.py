@@ -1,6 +1,6 @@
 import pandas as pd
 
-from load_shifts import prepare_shifts
+from src.load_shifts import prepare_shifts
 
 
 def is_working(hour, start, end):

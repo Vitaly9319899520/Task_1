@@ -3,8 +3,8 @@ from pathlib import Path
 import pandas as pd
 import pulp
 
-from calculate_staff import calculate_staff
-from create_shift_matrix import create_shift_matrix
+from src.calculate_staff import calculate_staff
+from src.create_shift_matrix import create_shift_matrix
 
 
 def optimize_schedule():
